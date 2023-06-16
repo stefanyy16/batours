@@ -22,10 +22,10 @@
 | --- | --- | --- | --- |
 | M181DSX2117 | Muhammad Fachreza Anggana Sukma | Machine Learning | Universitas Indonesia |
 | M041DSX2763 | Fata Falih Hilmi | Machine Learning | Institut Teknologi Tangerang Selatan |
-| C208DKX4242 |  Reza Fahrezi Raihan | Cloud Computing | Universitas Negeri Surabaya |
+| C208DKX4242 |  Reza Fahrezi Raihan | Cloud Computing | Universitas Jenderal Achmad Yani |
 | C287DSX2949 |  Wisnu Shena Arrafi | Cloud Computing | Universitas Negeri Surabaya |
 | C309DSY2785 | Stefany Mariyori | Cloud Computing | Universitas Pendidikan Indonesia |
-| A208DKY4345 |  Rayi Syifa Adriana Firmansyah | Android Development |  Universitas Jenderal Achmad Yani | 
+| A208DKY4345 |  Rayi Syifa Adriana Firmansyah | Mobile Development |  Universitas Jenderal Achmad Yani | 
 
 ## Background Information : 
 With an overwhelming number of travel options available today, it can be challenging for individuals to find the perfect vacation spot that suits their preferences and needs. BATOURS aims to address this problem by providing personalized recommendations for vacation places.
