@@ -45,8 +45,6 @@ You can see all the machine learning code in this [ML](https://github.com/ZaeRai
 ### Recommendation System - Collaborative Filtering
 Collaborative Filtering models are known for their ability to provide personalized recommendations by leveraging the collective intelligence of a user community. They can effectively capture user preferences and provide relevant recommendations based on the collaborative behavior and preferences of similar users.
 
-## Repository
-
 ## Dataset 
 1. [Kaggle Dataset](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination)
 
