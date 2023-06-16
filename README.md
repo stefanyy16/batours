@@ -33,13 +33,13 @@ With an overwhelming number of travel options available today, it can be challen
 ## Repository
 | Name | Link Repository |
 | --- | --- |
-| Machine Learning | Link ML |
+| Machine Learning | [Repository Machine Learning](https://github.com/ZaeRaihan/BATOURS-ML.git) |
 | Mobile Development | [Repository Mobile Development](https://github.com/ZaeRaihan/BATOURS-Mobile.git) |
 | Cloud Computing | [Repository Cloud Computing](https://github.com/ZaeRaihan/BATOURS-API.git) |
 
 
 # Machine Learning
-You can see all the machine learning code in this **_tar masukin link jangan lupa!!! FANYYYY_**
+You can see all the machine learning code in this [ML](https://github.com/ZaeRaihan/BATOURS-ML.git)
 
 ## Model
 ### Recommendation System - Collaborative Filtering
@@ -48,41 +48,26 @@ Collaborative Filtering models are known for their ability to provide personaliz
 ## Repository
 
 ## Dataset 
-1. Kaggle dataset (masukin dataset)
+1. [Kaggle Dataset](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination)
 
 # Mobile Development 
 Batours is an application built using Kotlin programming language, you can see all the mobile development code in this [repository](https://github.com/ZaeRaihan/BATOURS-Mobile.git) and to see the application usage guide you can see the following link.
 
 ## User Interface
+![WhatsApp Image 2023-06-16 at 01 55 07](https://github.com/stefanyy16/batours/assets/104126597/ad71a36b-72ec-4a62-a4ee-974d31edd21b)
+
+
 ## How to Clone this Project
+* You can clone the batours application 
+* Open in androd studio
+* Please wait geadle project synchronization
+* End
 
-## How to Get Google Maps API key
-## API 
-### Express API Starter
-**Dev Setup**
-* Nodejs - Express
-* Docker
-* Docker Compose
+## Clone project ini android studio
+* * Open the android studio
+* Click menu file -> new -> project from version control
+* Enter the **batours ** app repository [repository link](https://github.com/ZaeRaihan/BATOURS-API.git)
+* Please wait gradle project synchronization
+* End
 
-**Environtment Setup**
-* CLone this [repository](https://github.com/ZaeRaihan/BATOURS-API.git)
-* Copy .env.local to .env
-* If you want up to server use .env.production
-* Copy config.example.json to config.json
-* Set your environment too
-
-**Mongodb User Setup**
-* Copy init-mongo.example.js to init-mongo.js
-* Change up to you
-
-
-
-
-
-
-
-
-
-
-
-
+# Cloud Computing
